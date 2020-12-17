@@ -58,7 +58,10 @@ git fetch
 git pull origin master
 ```
 
-8) Now double click the script `setup.sh` to setup InstanceSync. It is found in the `development` folder.
+8) Now double click the script `setup.sh` to setup InstanceSync. It is found in the `development` folder. I had to install dos2unix and run
+```
+❯ dos2unix setup.sh                                                       
+```
 
 You're done!
 
